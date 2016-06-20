@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notebook</string>
+
+    <string name="menu_insert">Добавить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="todo_description">Описание</string>
+    <string name="todo_confirm">Применить</string>
+
+    <color name="black">#000000</color>
+
+</resources>
